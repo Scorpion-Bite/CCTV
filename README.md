@@ -1,2 +1,2 @@
 # CCTV
-A new design document to plan a CCTV system
+A plan document to design a new CCTV system
